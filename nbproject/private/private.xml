@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/ApplicationState.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/Admin.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/Authentication.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/IAuth.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/LoginState.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/Order.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/BookStoreLauncher.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/Status.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/Customer.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/AdminCustomerState.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/StoreStateEnum.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/LoginPage.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/CustomerStartPage.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/User.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/CustomerStartState.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/ActionsEnum.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/AdminFactory.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/AdminStartPage.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/UserTypeEnum.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/IAdminTablePage.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/Summary.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/AdminStartState.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/AdminBookState.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/AdminCustomersPage.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/Book.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/states/CustomerCostState.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/AdminBooksPage.java</file>
+            <file>file:/C:/Users/lux22/OneDrive/Documents/Coe528/BookStore/src/bookstore/ui/CustomerCostPage.java</file>
+        </group>
+    </open-files>
+</project-private>
